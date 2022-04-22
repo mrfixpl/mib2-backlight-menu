@@ -28,4 +28,5 @@ More details in `.gcc modifications` section.
 
 ## Reference documents and tools used ##
 * Cuzoe research: https://www.golfmk7.com/forums/index.php?threads/rgb-ambient-lighting-hopes-dreams-pre-facelift-mk7.392316/
+* MIB STD2 Toolbox: https://github.com/olli991/mib-std2-pq-zr-toolbox
 * OBDeleven diagnostic interface (ref link): http://obdeleven.com/?src=link&ref=Zy245Iacqc6bMTHh
