@@ -7,7 +7,7 @@ Based on my findings in VW Golf MK7 with MST2 system.
 ## 0x5F MIB2 coding and adaptation ##
 ### Enable interior illumination controls ###
 `0x5F` → `adaptation` → `Car_Function_Adaptations_Gen2`:
-* → `menu_display_ambient_illumination → `active`
+* → `menu_display_ambient_illumination` → `active`
 * → `menu_display_ambient_illumination_over_threshold_high` → `active`
 
 ### Enable MIB2 `0x5F` communication with BCM `0x09` ###
