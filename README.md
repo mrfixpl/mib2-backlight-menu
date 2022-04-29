@@ -23,10 +23,10 @@ More details in `.gcc modifications` section.
 
 ## `0x09` BCM coding and adaptation
 
-## `.gcc` modifications
+## Zone controls `.gcc`  modifications
 *coming soon...*
 
-## GUI modifications
+## GUI `.mcf` modifications
 *coming soon...*
 
 ## Credits, Reference, Tools
